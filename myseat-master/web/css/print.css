@@ -1,0 +1,90 @@
+body {
+		  width: 100% !important;
+		  margin: 0 !important;
+		  padding: 0 !important;
+		  text-align: left;
+		  font: normal 0.7em "Helvetica Neue", Helvetica, "Lucida Grande", Arial, sans-serif;
+		  background: #FFF;
+		  color: #333;
+}
+
+.print {
+		  display:block;
+		 }
+.noprint {
+		  display:none;
+		 }
+
+#top_bar, #topbar, #menu_wrapper, #first_level_tab, #most_recent, #timeline   {
+		  display:none;
+		 }
+
+.first_level_tab {
+		  display:none;
+		 }
+
+#messageBox, .alert_ads {
+		  display:none;
+		 }
+#tb_time{
+	width:10% !important;	
+}
+#tb_pax{
+	width:10% !important;	
+}
+#tb_name{
+	width:30% !important;
+}
+#tb_note{
+	width:40% !important;
+}
+#tb_table{
+	width:10% !important;
+}
+
+#datetext {
+		  font-weight:bold;
+                  font-size: 1.3em;
+		 }
+
+#footer {
+		background: white;
+		color: black;
+		}
+		
+.onecolumn, .onecolumn .header {
+		background: white;
+		border: 0px;
+		}
+		
+.date {
+		background: white;
+		}
+		
+.dategroup_name a {
+		 color: #000;
+		 }
+
+.navgroup {
+		  display:none;
+		 }
+                 
+.onecolumn {
+          border: 0px;
+		}
+
+.global td{
+          border: 1px solid #999;
+			}
+
+.morning, .afternoon, .evening			{
+			background: white;
+			text-shadow: none;
+			}
+					
+table.global thead tr {
+	    	background: white !important;
+	    	font-size: 1.2em;
+	    	text-shadow: none;
+			font-weight: bold;
+			}
