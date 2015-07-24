@@ -544,9 +544,11 @@ padding-left:370px}
 	margin:0
 }
 iframe {
-	height: 182px;
-	overflow: hidden;
-	width: 630px;
+	 height: 830px	;
+	 overflow: hidden;
+	 width: 600px;
+	-webkit-border-radius: 10px 15px;  /* Safari  */
+	-moz-border-radius: 5px 10px;     /* Firefox */
 
 }
 /*----- adress -----*/

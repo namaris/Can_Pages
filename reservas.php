@@ -95,8 +95,7 @@
       </ul>
     </article>
     <article class="grid_8">
-      <h3 class="name-author">calendario de reservas</h3>
-    <iframe height="5000" width="560" src="/canpages/myseat-master/api/reserve.php?propertyID=1" scrolling="no" class="frame"> </iframe>
+          <iframe height="5000" width="560" src="/canpages/myseat-master/api/reserve.php?propertyID=1" scrolling="no" class="frame"> </iframe>
     </article>
     <div class="clear"></div>
   </div>
