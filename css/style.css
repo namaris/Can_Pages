@@ -551,6 +551,12 @@ iframe {
 	-moz-border-radius: 5px 10px;     /* Firefox */
 
 }
+
+iframe.alter {
+	 height: 200px	;
+	 overflow: hidden;
+	 width: 600px;
+}
 /*----- adress -----*/
 
 .box-address {
